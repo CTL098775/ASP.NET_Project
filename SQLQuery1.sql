@@ -1,0 +1,2 @@
+﻿ALTER LOGIN sa ENABLE;
+GO
